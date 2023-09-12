@@ -1,0 +1,136 @@
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #1a252f; /* Darker background color */
+}
+
+.top {
+    margin-top: 0;
+    background-color: #234657; /* Darker top background color */
+    padding: 100px;
+}
+
+hr {
+    border: none;
+    border-top: dotted 5px grey;
+    width: 5%;
+    margin: 100px auto;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 3.75rem;
+    margin: 50px auto 10px;
+    padding: 70px 50px 0;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    font-weight: normal;
+    color: #66BFBF;
+    padding-bottom: 10px;
+}
+
+h3 {
+    
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.MERN{
+margin-top: 175px;
+}
+.top-cloud {
+    position: absolute;
+    left: 950px;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+    color: rgb(251, 251, 251);
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+
+p {
+    line-height: 1.6;
+}
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.bottom-cloud {
+    position: absolute;
+}
+
+.footer-link {
+    color: #11999E;
+    margin-right: 30px;
+    transition: color 0.3s ease;
+}
+
+.footer-link:hover {
+    color: #0d7a7a;
+}
+
+.skill-row {
+    width: 70%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+.code-img{
+  
+    width: 22%;
+    float: left;
+    margin-right: 30px;
+}
+
+.skill_para{
+    color: rgba(255, 252, 252, 0.842);
+    font-size: 15px;
+    letter-spacing: 2px;
+    font-style: inherit;
+}
+
+
+.chilli-img{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.btn {
+    background: #3498db;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px 25px;
+    text-decoration: none;
+    border-radius: 28px;
+    transition: background 0.3s ease;
+}
+
+.btn:hover {
+    background: #3cb0fd;
+}
+
+.bottom-container {
+    margin-top: 50px;
+    background-color: #234657; /* Darker bottom background color */
+    padding-top: 50px;
+}
+
+.copy-right {
+    color: #eaf6f6;
+    padding-top: 25px;
+}
+
+.line-height {
+    line-height: 2.5;
+}
